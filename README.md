@@ -1,8 +1,6 @@
 # analuzbarnard
 ###  Hola, soy Ana luz Barnard 👋
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 ---
 Ahora estoy  estudiando en la Escuela ProA situada en Laboulaye, donde he visto y trabajado con distintos lenguajes de programación.
 
